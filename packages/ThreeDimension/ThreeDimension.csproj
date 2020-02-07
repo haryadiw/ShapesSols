@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Angular\Angular.csproj" />
+    <ProjectReference Include="..\Rounded\Rounded.csproj" />
+  </ItemGroup>
+
+</Project>
