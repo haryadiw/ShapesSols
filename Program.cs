@@ -112,9 +112,6 @@ namespace Shapes
             }
 
 
-
-            Console.ReadLine();
-
         }
 
     }
